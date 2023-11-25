@@ -1,0 +1,72 @@
+[
+  {
+    "question": "What is the capital of India?",
+    "subject": "Geography",
+    "topic": "Countries",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "question": "What is the capital of China?",
+    "subject": "Geography",
+    "topic": "Countries",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "question": "What is the capital of England?",
+    "subject": "Geography",
+    "topic": "Countries",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "question": "What is the largest planet in our solar system?",
+    "subject": "Science",
+    "topic": "Astronomy",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "question": "Name the five oceans of the world.",
+    "subject": "Geography",
+    "topic": "Oceans",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "question": "What is the capital of Japan?",
+    "subject": "Geography",
+    "topic": "Countries",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "question": "Solve x^5 - 4 = 0",
+    "subject": "Math",
+    "topic": "Algebra",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "Simplify 3/6 + 2/7",
+    "subject": "Math",
+    "topic": "Fractions",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "Who wrote 'To Kill a Mockingbird'?",
+    "subject": "Literature",
+    "topic": "American Literature",
+    "difficulty": "Hard",
+    "marks": 15
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "subject": "Art",
+    "topic": "Renaissance Art",
+    "difficulty": "Hard",
+    "marks": 15
+  }
+]

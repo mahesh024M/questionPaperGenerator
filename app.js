@@ -85,9 +85,10 @@ const questionPaperGenerator = new QuestionpaperGenerator(questionStore);
 
 try {
     const totalMarksValid = 100;
-    const difficultyDistribution = { "Easy": 0.3, "Medium": 0.5, "Hard": 0.3 };
+    const difficultyDistribution = { "Easy": 0.3, "Medium": 0.2, "Hard": 0.3 };
     const questionPaper=questionPaperGenerator.generateQuestionpaper(totalMarksValid,difficultyDistribution);
     console.log(questionPaper);
+    fs.writeFileSync('generated_questions.json', JSON.stringify(questionPaper, null, 2), 'utf8');
   } catch (error) {
     console.error('Error:', error.message);
   }
